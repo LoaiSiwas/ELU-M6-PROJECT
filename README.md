@@ -1,7 +1,7 @@
 # Natural Language Processing with Disaster Tweets
 
 This repository is part of a project for the 6th moudule of master's studies at the European Leadership University
-Student Name: Loai Siwas
+Student Name: **Loai Siwas**
 
 ## Table of Contents
 - [Introduction](#introduction)
